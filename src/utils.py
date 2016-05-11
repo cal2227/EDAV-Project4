@@ -14,6 +14,8 @@ suas_fname = "../data/State_of_the_Union_Addresses_1790-2016.txt"
 enriched_suas_fname = "../data/enriched_suas.json"
 reading_levels_fname = "../data/suas_with_reading_levels.json"
 with_presidents_fname = "../data/suas_with_presidents.json"
+with_elections_fname = "../data/suas_with_elections.json"
+with_word_sets_fname = "../data/suas_with_word_sets.json"
 
 inaugurals_fname = "../data/inaugural.json"
 enriched_inaugurals = "../data/enriched_inaugurals.json"
@@ -53,7 +55,7 @@ def split_by_sua(fname):
         
         president = sua[metadata_offset+1].strip()
         dt = datetime.strptime(sua[metadata_offset+2].strip(), '%B %d, %Y')
-        year = dt.year if dt.month > 9 else dt.year - 1        
+        year = dt.year     
         
         yield {
             'president': president, 
@@ -65,7 +67,7 @@ def get_suas():
     return [sua for sua in split_by_sua(suas_fname)]
 
 def get_suas_1970():
-    return [sua for sua in split_by_sua(suas_fname) if sua['year'] >= 1969]
+    return [sua for sua in split_by_sua(suas_fname) if sua['year'] >= 1970]
 
 def get_years(suas):
     return [sua['year'] for sua in suas]

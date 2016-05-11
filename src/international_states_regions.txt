@@ -1,0 +1,679 @@
+Abu Dhabi
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua:Barbuda
+Argentina
+Armenia
+Aruba
+Austral Oceania
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belgium-Luxem.
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire
+Bosnia & Herz.
+Botswana
+Bouvet Island
+Br Ind Oc Terr
+Br Virgin Is
+Brazil
+Brunei
+Bulgaria
+Burkina
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+Canary Islands
+Cape Verde
+Cayman Islands
+Cent Afr Rep
+Ceuta
+Ceuta & Melilla
+Chad
+Chile
+China
+Christmas Is
+Cocos Islands
+Colombia
+Comoros
+Congo
+Congo (Dem. Rep)
+Congo (Republic)
+Cook Islands
+Costa Rica
+Croatia
+Cuba
+Curacao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Rep
+Dubai
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equat Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands
+Faroe Islands
+Fiji
+Finland
+Fr Southern Terr
+France
+French Guiana
+French Polynesia
+FYR Macedonia
+Gabon
+Gambia
+Gaza & Jericho
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard & McDonald
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Irish Republic
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kosovo
+Kuwait
+Kyrgyzstan
+Kyrgyz Republic
+Kyrkyz Republic
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Melilla
+Mexico
+Micronesia
+Moldova
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+N Mariana Is
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue & Tokelau
+Niue Island
+Nl Antilles
+Norfolk Island
+North Korea
+Norway
+Occ Palest Terr
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Polar Regions
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Barthelemy
+Samoa
+San Marino
+Sao Tome-Princ.
+Saudi Arabia
+Senegal
+Serbia
+Serbia & Mont.
+Serbia-Monteneg.
+Seychelles
+Sharjah Etc
+Sierra Leone
+Singapore
+Sint Maarten
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia Is
+South Korea
+South Sudan
+Spain
+Sri Lanka
+St Helena
+St Kitts & Nevis
+St Lucia
+St Pierre-Mique
+St Vincent
+Sudan
+Surinam
+Svalbard Arch.
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau Islands
+Tonga
+Trinidad:Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks & Caicos
+Tuvalu
+UAE
+Uganda
+Ukraine
+Uruguay
+US Minor Islands
+US Oceania
+US Virgin Is
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+W Bank/Gaza Strp
+Wallis & Futuna
+Western Sahara
+Western Samoa
+Yemen
+Yugoslavia
+Zaire
+Zambia
+Zimbabwe
+GEOG. REGION
+Middle East
+N Africa
+Asia
+Oceania
+Eastern Europe
+Middle East
+N Africa
+Asia
+Oceania
+Western Europe exc EC
+Sub-Saharan Africa
+Latin America
+Caribbean
+Asia
+Oceania
+Latin America
+Caribbean
+Latin America
+Caribbean
+Eastern Europe
+Latin America
+Caribbean
+Asia
+Oceania
+Asia
+Oceania
+European Community
+Eastern Europe
+Latin America
+Caribbean
+Middle East
+N Africa
+Asia
+Oceania
+Latin America
+Caribbean
+Eastern Europe
+European Community
+European Community
+Latin America
+Caribbean
+Sub-Saharan Africa
+Latin America
+Caribbean
+Asia
+Oceania
+Latin America
+Caribbean
+Latin America
+Caribbean
+Eastern Europe
+Sub-Saharan Africa
+Asia
+Oceania
+Sub-Saharan Africa
+Latin America
+Caribbean
+Latin America
+Caribbean
+Asia
+Oceania
+European Community
+Sub-Saharan Africa
+Asia
+Oceania
+Sub-Saharan Africa
+Asia
+Oceania
+Sub-Saharan Africa
+North America
+Middle East
+N Africa
+Sub-Saharan Africa
+Latin America
+Caribbean
+Sub-Saharan Africa
+Middle East
+N Africa
+Middle East
+N Africa
+Sub-Saharan Africa
+Latin America
+Caribbean
+Asia
+Oceania
+Asia
+Oceania
+Asia
+Oceania
+Latin America
+Caribbean
+Sub-Saharan Africa
+Sub-Saharan Africa
+Sub-Saharan Africa
+Sub-Saharan Africa
+Asia
+Oceania
+Latin America
+Caribbean
+European Community
+Latin America
+Caribbean
+Latin America
+Caribbean
+European Community
+European Community
+European Community
+Sub-Saharan Africa
+Latin America
+Caribbean
+Latin America
+Caribbean
+Middle East
+N Africa
+Asia
+Oceania
+Latin America
+Caribbean
+Middle East
+N Africa
+Latin America
+Caribbean
+Sub-Saharan Africa
+Sub-Saharan Africa
+European Community
+Sub-Saharan Africa
+Latin America
+Caribbean
+Western Europe exc EC
+Asia
+Oceania
+European Community
+Asia
+Oceania
+European Community
+Latin America
+Caribbean
+Asia
+Oceania
+Eastern Europe
+Sub-Saharan Africa
+Sub-Saharan Africa
+Middle East
+N Africa
+Eastern Europe
+European Community
+Sub-Saharan Africa
+Western Europe exc EC
+European Community
+North America
+Latin America
+Caribbean
+Latin America
+Caribbean
+Asia
+Oceania
+Latin America
+Caribbean
+Sub-Saharan Africa
+Sub-Saharan Africa
+Latin America
+Caribbean
+Latin America
+Caribbean
+Asia
+Oceania
+Latin America
+Caribbean
+Asia
+Oceania
+European Community
+Western Europe exc EC
+Asia
+Oceania
+Asia
+Oceania
+Middle East
+N Africa
+Middle East
+N Africa
+European Community
+Middle East
+N Africa
+European Community
+Sub-Saharan Africa
+Latin America
+Caribbean
+Asia
+Oceania
+Middle East
+N Africa
+Eastern Europe
+Sub-Saharan Africa
+Asia
+Oceania
+Eastern Europe
+Middle East
+N Africa
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Asia
+Oceania
+European Community
+Middle East
+N Africa
+Sub-Saharan Africa
+Sub-Saharan Africa
+Middle East
+N Africa
+Western Europe exc EC
+European Community
+European Community
+Asia
+Oceania
+Sub-Saharan Africa
+Sub-Saharan Africa
+Asia
+Oceania
+Asia
+Oceania
+Sub-Saharan Africa
+European Community
+Asia
+Oceania
+Latin America
+Caribbean
+Sub-Saharan Africa
+Sub-Saharan Africa
+Sub-Saharan Africa
+Middle East
+N Africa
+North America
+Asia
+Oceania
+Eastern Europe
+Asia
+Oceania
+Eastern Europe
+Latin America
+Caribbean
+Middle East
+N Africa
+Sub-Saharan Africa
+Asia
+Oceania
+Sub-Saharan Africa
+Asia
+Oceania
+Asia
+Oceania
+European Community
+Asia
+Oceania
+Asia
+Oceania
+Latin America
+Caribbean
+Sub-Saharan Africa
+Sub-Saharan Africa
+Asia
+Oceania
+Asia
+Oceania
+Latin America
+Caribbean
+Asia
+Oceania
+Asia
+Oceania
+Western Europe exc EC
+Middle East
+N Africa
+Middle East
+N Africa
+Asia
+Oceania
+Asia
+Oceania
+Latin America
+Caribbean
+Asia
+Oceania
+Latin America
+Caribbean
+Latin America
+Caribbean
+Asia
+Oceania
+Asia
+Oceania
+European Community
+Asia
+Oceania
+European Community
+North America
+Middle East
+N Africa
+Sub-Saharan Africa
+European Community
+Eastern Europe
+Sub-Saharan Africa
+Latin America
+Caribbean
+Asia
+Oceania
+Western Europe exc EC
+Sub-Saharan Africa
+Middle East
+N Africa
+Sub-Saharan Africa
+Eastern Europe
+Eastern Europe
+Eastern Europe
+Sub-Saharan Africa
+Middle East
+N Africa
+Sub-Saharan Africa
+Asia
+Oceania
+Latin America
+Caribbean
+European Community
+European Community
+Asia
+Oceania
+Sub-Saharan Africa
+Sub-Saharan Africa
+Asia
+Oceania
+Asia
+Oceania
+Middle East
+N Africa
+European Community
+Asia
+Oceania
+Sub-Saharan Africa
+Latin America
+Caribbean
+Latin America
+Caribbean
+North America
+Latin America
+Caribbean
+Middle East
+N Africa
+Latin America
+Caribbean
+Western Europe exc EC
+Sub-Saharan Africa
+European Community
+Western Europe exc EC
+Middle East
+N Africa
+Asia
+Oceania
+Eastern Europe
+Sub-Saharan Africa
+Asia
+Oceania
+Asia
+Oceania
+Sub-Saharan Africa
+Asia
+Oceania
+Asia
+Oceania
+Latin America
+Caribbean
+Middle East
+N Africa
+Western Europe exc EC
+Eastern Europe
+Latin America
+Caribbean
+Asia
+Oceania
+Middle East
+N Africa
+Sub-Saharan Africa
+Eastern Europe
+North America
+Latin America
+Caribbean
+Asia
+Oceania
+Asia
+Oceania
+Latin America
+Caribbean
+Eastern Europe
+Asia
+Oceania
+Western Europe exc EC
+Latin America
+Caribbean
+Asia
+Oceania
+Middle East
+N Africa
+Asia
+Oceania
+Sub-Saharan Africa
+Asia
+Oceania
+Middle East
+N Africa
+Eastern Europe
+Sub-Saharan Africa
+Sub-Saharan Africa
+Sub-Saharan Africa
