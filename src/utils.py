@@ -3,6 +3,7 @@
 from datetime import datetime
 import json
 
+import nltk
 from nltk import word_tokenize as nltk_word_tokenize
 from nltk.stem import PorterStemmer
 from nltk.corpus import inaugural
@@ -56,12 +57,15 @@ def split_by_sua(fname):
         
         yield {
             'president': president, 
-            'year': year,
+            'year': int(year),
             'text': ''.join(sua[metadata_offset+3:]).replace('\n', ' ').strip()
         }
 
 def get_suas():
     return [sua for sua in split_by_sua(suas_fname)]
+
+def get_suas_1970():
+    return [sua for sua in split_by_sua(suas_fname) if sua['year'] >= 1969]
 
 def get_years(suas):
     return [sua['year'] for sua in suas]
@@ -125,6 +129,14 @@ def gen_inaugurals():
 
 def get_inaugurals():
     return [ia for ia in gen_inaugurals()]
+
+def gen_ConditionalFreqDist(suas, words):
+    return nltk.ConditionalFreqDist(
+        (target, sua['year'])    
+        for sua in suas    
+        for w in nltk.word_tokenize(sua['text'])
+        for target in words
+        if w.lower().startswith(target))
 
 if __name__ == '__main__':
     with open(suas_fname, 'r') as f:
