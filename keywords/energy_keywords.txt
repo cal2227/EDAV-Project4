@@ -1,0 +1,11 @@
+coal
+energy
+fossil
+fuel
+gas
+nuclear
+oil
+shale
+solar
+wind
+clean

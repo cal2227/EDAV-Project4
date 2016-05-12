@@ -1,0 +1,13 @@
+child
+college
+educat
+engineering
+math
+reading
+school
+science
+student
+teacher
+technology
+tuition
+university
