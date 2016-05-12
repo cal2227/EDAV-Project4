@@ -3,6 +3,8 @@
 from datetime import datetime
 import json
 
+import numpy as np
+
 import nltk
 from nltk import word_tokenize as nltk_word_tokenize
 from nltk.stem import PorterStemmer
@@ -20,6 +22,8 @@ with_word_sets_fname = "../data/suas_with_word_sets.json"
 inaugurals_fname = "../data/inaugural.json"
 enriched_inaugurals = "../data/enriched_inaugurals.json"
 inaugurals_reading_levels_fname = "../data/inaugurals_with_reading_levels.json"
+
+suas_with_topic_frequencies = "../data/suas_with_topic_frequencies.json"
 
 sua_delim = "***"
 
@@ -161,12 +165,27 @@ def get_stemmed_keywords():
     stemmer = PorterStemmer()
     return { 
         topic : 
-        list(set([stemmer.stem(word) for word in open(fname, 'r').read().splitlines()]))
+        stem_tokenizer(open(fname, 'r').read())
         for topic, fname in keywords_fnames.items()
     }
 
 
+def enrich_suas_with_topic_frequencies(suas, stemmed_keywords):
+    def enrich_sua_with_topic_frequency(sua, topic, topic_keywords):
+        if topic not in sua:
+            sua[topic] = 0
+        for w in stem_tokenizer(sua['text']):
+            startswith_any = np.any([w.lower().startswith(kword) \
+                for kword in topic_keywords])
+            if startswith_any:
+                sua[topic] += 1
 
+    def enrich_suas_with_topic_frequency(suas, topic, topic_keywords):
+        for sua in suas:
+            enrich_sua_with_topic_frequency(sua, topic, topic_keywords)
+
+    for topic, topic_keywords in stemmed_keywords.items():
+        enrich_suas_with_topic_frequency(suas, topic, topic_keywords)
 
 
 if __name__ == '__main__':
