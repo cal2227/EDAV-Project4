@@ -1,0 +1,13 @@
+antibiotic
+cancer
+cobra
+diabetes
+doctor
+health
+hospital
+insurance
+medic
+medicaid
+medicare
+nurse
+smoking

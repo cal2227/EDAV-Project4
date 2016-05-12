@@ -140,6 +140,35 @@ def gen_ConditionalFreqDist(suas, words):
         for target in words
         if w.lower().startswith(target))
 
+
+###########################################
+# keywords
+###########################################
+keywords_fnames = {
+    "economy": "../keywords/economy_keywords.txt",
+    "environment": "../keywords/environment_keywords.txt",
+    "government": "../keywords/govt_keywords.txt",
+    "social": "../keywords/social_keywords.txt",
+    "energy": "../keywords/energy_keywords.txt",
+    "healthcare": "../keywords/healthcare_keywords.txt",
+    "education": "../keywords/education_keywords.txt",
+    "defense": "../keywords/defense_keywords.txt",
+    "international": "../keywords/international_keywords.txt",
+    "infrastructure": "../keywords/infrastructure_keywords.txt"
+}
+
+def get_stemmed_keywords():
+    stemmer = PorterStemmer()
+    return { 
+        topic : 
+        list(set([stemmer.stem(word) for word in open(fname, 'r').read().splitlines()]))
+        for topic, fname in keywords_fnames.items()
+    }
+
+
+
+
+
 if __name__ == '__main__':
     with open(suas_fname, 'r') as f:
         print (len(f.readlines()))
